@@ -3,9 +3,11 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://duckduckgo.com/*
 // @grant       none
-// @version     1.2
+// @version     1.3
 // @author      Eldritch Theme
 // @description Eldritch theme for DuckDuckGo
+// @downloadURL https://raw.github.com/eldritch-theme/duckduckgo/master/script.js
+// @updateURL https://raw.github.com/eldritch-theme/duckduckgo/master/script.js
 // ==/UserScript==
 const eldritch = {
   kae: "d",
